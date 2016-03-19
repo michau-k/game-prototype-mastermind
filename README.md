@@ -2,6 +2,12 @@
 - First project for Game Design Course at BJTU
 - Student: Alex Michaux - id: 15129031
 
+# Target Audience
+- People starting from around 8 years old to anyone above it
+- People liking cerebral games where you have to think but with simple rules
+- People liking turn based game but where the game doesnt last for too long (5 to 10 minutes)
+- People looking to just pass some time in between other activities
+
 # Game Player(s)
 2 Players play against each other :
   - One is the codemaker
@@ -39,3 +45,15 @@ For the codebreaker to find the color pattern of the codemaker
 - If the pattern of colors is exactly the same as the codemaker's one, the codebreaker won, if not the turn then goes to the codemaker
 - Pattern being the same means the 4 same colors as the codemaker in the same order
 - At the end the 10th turn, when all the lines are full of pegs, if the codebreaker didn't find the right pattern, he lost the game
+
+# Prototype
+
+![alt tag](./images/start_game.png "Game Start")
+_____________________________________________________
+![alt tag](./images/pattern.png "Pattern")
+_____________________________________________________
+![alt tag](./images/first_turn.png "First Turn")
+_____________________________________________________
+![alt tag](./images/first_turn_answer.png "First Turn Answer")
+_____________________________________________________
+![alt tag](./images/win.png "Win")
