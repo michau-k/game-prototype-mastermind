@@ -1,5 +1,5 @@
 # game-prototype-mastermind
-- First project for Game Design Course at BJTU
+- Second project for Game Design Course at BJTU
 - Student: Alex Michaux - id: 15129031
 
 # Target Audience
